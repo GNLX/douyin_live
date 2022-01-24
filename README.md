@@ -1,7 +1,7 @@
 # douyin_live
 
 
-抖音直播间数据采集  python源码
+抖音直播间数据采集  python源码、web和app都有
   
 抖音直播、弹幕数据、零遗漏、高速接收直播间内容，包括来访、评论、关注、粉丝团、送礼、社评等等
 
@@ -28,8 +28,6 @@
   
 
  
- 
- 
 
 # douyin_xgorgon
 douyin_xgorgon、All versions are available、抖音算法
@@ -43,11 +41,7 @@ deviced-register 设备注册、激活、授权。
  
 feed-protobuf 信息流
 
-live-wss-pro 直播间数据采集1
-
-私信、点赞、评论、
 
 持续更新、要的 + qq  
-
 
 **qq 2680127796**
