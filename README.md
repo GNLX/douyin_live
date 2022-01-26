@@ -32,6 +32,7 @@
 # douyin_xgorgon
 douyin_xgorgon、All versions are available、抖音算法
 
+抖音最新版本抓包
 
 xgorgon安卓0401-0404-0408 
 
