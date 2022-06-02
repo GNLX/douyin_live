@@ -1,5 +1,6 @@
 # douyin_live
 
+抖音web signature和xbogus算法。
 
 抖音直播间数据采集  python源码、web和app都有
   
